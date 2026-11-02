@@ -1,3 +1,5 @@
+> **Fork notice:** This repository is a copy of [Stability-AI/StableStudio](https://github.com/Stability-AI/StableStudio), maintained by its original authors. All credit for the original work goes to them. It's licensed under the upstream project's license (MIT).
+
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
 <img src="./misc/Banner.png" />
